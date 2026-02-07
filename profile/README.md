@@ -148,6 +148,13 @@
 
 ---
 
+### 社群
+
+Wechat Group
+
+<img width="300" height="300" alt="wechat-group" src="https://github.com/user-attachments/assets/444d5877-aabe-46b2-b849-59f74fa906de" />
+
+---
 <sub>© 2025 重庆星纬智联科技有限公司. All rights reserved.</sub>
 
 </div>
