@@ -2,9 +2,11 @@
 
 # 🌟 StellarLink · 星纬智联
 
-**AI 驱动的企业数字化解决方案**
+**AI-Driven Enterprise Digital Solutions**
 
-[官网](https://stellarlink.co) · [技术博客](https://stellarlink.co/articles) · [产品文档](https://stellarlink.co/help) · [联系我们](https://stellarlink.co/contact)
+[English](README.md) · [简体中文](../README_ZH.md)
+
+[Official Website](https://stellarlink.co) · [Products](https://stellarlink.co/products) · [Features](https://stellarlink.co/features) · [Pricing](https://stellarlink.co/pricing) · [Contact Us](https://stellarlink.co/contact)
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fstellarlink.co&style=flat-square)](https://stellarlink.co)
 [![License](https://img.shields.io/badge/license-Proprietary-blue?style=flat-square)](https://stellarlink.co/privacy)
@@ -14,85 +16,62 @@
 
 ---
 
-## 🚀 关于我们
+## 🚀 About Us
 
-重庆星纬智联科技有限公司 (StellarLink) 专注于**AI 驱动的企业数字化转型**，通过智能分析与自动化流程，让企业业务效率提升 10 倍。
+Chongqing StellarLink Technology Co., Ltd. (StellarLink) specializes in **AI-driven enterprise digital transformation**, boosting business efficiency by 10x through intelligent analysis and automated workflows.
 
-我们服务 **1000+ 企业客户**，平均帮助企业降低运营成本 **47%**，覆盖小程序开发、竞品分析、代码审查、知识库管理等核心业务场景。
+We serve **1,000+ enterprise clients**, helping businesses reduce operational costs by an average of **47%**, covering core business scenarios including mini-program development, competitive analysis, code review, and knowledge base management.
 
 ---
 
-## 💡 核心产品
+## 💡 Core Products
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 Mini-Program Starter
-**72 小时快速小程序开发**
+### 🚀 Delivery & Engineering
 
-- 模块化开发 + AI 辅助设计
-- 包含商城、CRM、支付功能
-- 3 天交付基础可用版本
-- 持续迭代和优化
-
-</td>
-<td width="50%">
-
-### 🔍 DeepResearch
-**3 分钟竞品深度分析**
-
-- 自动抓取官网、社交媒体、新闻
-- AI 智能汇总和对比
-- 生成可视化报告和 PPT 大纲
-- 每日自动更新数据
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 SWE-Agent
-**AI 自动化代码审查**
-
-- 支持 10+ 主流编程语言
-- 检测安全漏洞和性能问题
-- 集成 GitHub/GitLab CI/CD
-- 15 分钟内返回详细报告
+- [Stellar Mini-Program](https://stellarlink.co/products/miniprogram) · Launch in 72 hours
+- [vibeBuilder](https://stellarlink.co/products/vibe-builder) · AI code generation & development
+- [Idea Lab](https://stellarlink.co/products/idea) · Co-development: your idea, our implementation
+- [ideaCanvas](https://stellarlink.co/products/idea-canvas) · Instant visual idea representation
 
 </td>
 <td width="50%">
 
-### 💡 Idea Lab
-**联合开发 · 你的点子，我来实现**
+### 📈 Growth & Intelligence
 
-- 协作开发模式
-- 快速 MVP 验证
-- 敏捷迭代流程
-- 技术咨询和指导
+- [DeepResearch](https://stellarlink.co/products/research) · Insights in 3 minutes
+- [SWE-Agent](https://stellarlink.co/products/sweagent) · AI automated code review
+- [Enterprise Knowledge Base](https://stellarlink.co/products/knowledge) · Instant enterprise search
+- [GEO Optimize](https://stellarlink.co/products/geo-optimize) · LLM search optimization
+- [SEO Optimize](https://stellarlink.co/products/seo-optimize) · Search ranking boost
 
 </td>
 </tr>
 </table>
 
+> See full capabilities and plans: [Features](https://stellarlink.co/features) · [Pricing](https://stellarlink.co/pricing)
+
 ---
 
-## 🛠️ 技术栈
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 前端技术
+### Frontend Technologies
 ![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### AI & 自动化
+### AI & Automation
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-4.5-5A67D8?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5.2-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-Agent-1C3C3C?style=for-the-badge)
 
-### 基础设施
+### Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -101,60 +80,74 @@
 
 ---
 
-## 📊 GitHub 统计
+## 📊 GitHub Statistics
 
 <div align="center">
 
-| 指标 | 数值 |
+| Metric | Value |
 |------|------|
-| 🏢 服务企业 | 1,000+ |
-| 📝 技术文章 | 60+ |
-| ⚡ 平均效率提升 | 10x |
-| 💰 平均成本降低 | 47% |
-| ⏱️ 小程序交付时间 | 72h |
-| 🔍 竞品分析速度 | 3min |
+| 🏢 Enterprise Clients | 1,000+ |
+| 📝 Technical Articles | 60+ |
+| ⚡ Avg. Efficiency Boost | 10x |
+| 💰 Avg. Cost Reduction | 47% |
+| ⏱️ Mini-Program Delivery | 72h |
+| 🔍 Competitive Analysis Speed | 3min |
 
 </div>
 
 ---
 
-## 🌈 开源贡献
+## 🌈 Open Source Contributions
 
-我们积极参与开源社区，并分享最佳实践：
+We actively participate in the open source community and share best practices:
 
-- 📚 **技术博客**: 60+ 篇 AI Agent、编程最佳实践文章
-- 🛠️ **开发工具**: Claude Code、Codex 等 AI 辅助开发工具深度实践
-- 📖 **翻译贡献**: Anthropic、OpenAI 官方文档中文翻译
+- 📚 **Tech Blog**: 60+ articles on AI Agents and programming best practices
+- 🛠️ **Development Tools**: In-depth practice with AI-assisted tools like Claude Code and Codex
+- 📖 **Translation Contributions**: Chinese translations of official Anthropic and OpenAI documentation
 
 
 
 ---
 
-## 📬 联系我们
+## 📬 Contact Us
 
 <div align="center">
 
-📧 **邮箱**: [support@stellarlink.co](mailto:support@stellarlink.co)
-🌐 **官网**: [stellarlink.co](https://stellarlink.co)
-📍 **地址**: 重庆市两江新区金开大道西段106号9幢22楼
+📧 **Email**: [support@stellarlink.co](mailto:support@stellarlink.co)
+🌐 **Website**: [stellarlink.co](https://stellarlink.co)
+📍 **Address**: Building 9, Floor 22, No. 106 West Jinkai Avenue, Liangjiang New Area, Chongqing, China
 
 ---
 
-### 社交媒体
+### Social Media
 
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/stellarlink) -->
-[![微信公众号](https://img.shields.io/badge/微信公众号-关注-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/YUC5RSI3xEeL6ifEv3rJyQ)
+[![微信公众号](https://img.shields.io/badge/微信公众号-关注-07C160?style=for-the-badge&logo=wechat&logoColor=white)](http://weixin.qq.com/r/mp/a0Xw6HrElyforT6L9xB5)
 [![小红书](https://img.shields.io/badge/小红书-关注-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://xhslink.com/m/3Yea6q4bd3m)
 
+### WeChat Channels (Click QR to Visit)
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a>
+  <img src="../images/qrcode.png" alt="WeChat Official Account QR Code" width="220" />
+</a>
+<br/>
+<sub><a>Official Account</a></sub>
+</td>
+<td align="center" width="50%">
+<a>
+  <img src="../images/qrcode2.png" alt="WeCom Group QR Code" width="220" />
+</a>
+<br/>
+<sub><a>WeCom Group</a></sub>
+</td>
+</tr>
+</table>
+
 ---
 
-### 社群
-
-Wechat Group
-
-<img width="300" height="300" alt="wechat-group" src="https://github.com/user-attachments/assets/444d5877-aabe-46b2-b849-59f74fa906de" />
-
----
-<sub>© 2025 重庆星纬智联科技有限公司. All rights reserved.</sub>
+<sub>© 2025 Chongqing StellarLink Technology Co., Ltd. All rights reserved.</sub>
 
 </div>
