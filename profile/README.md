@@ -1,73 +1,75 @@
 <div align="center">
 
-# 🌟 StellarLink · 星纬智联
+# StellarLink · 星纬智联
 
-**AI-Driven Enterprise Digital Transformation**
+**AI products and AI Agent implementation for enterprise growth**
 
 [English](README.md) · [简体中文](../README_ZH.md)
 
-[Official Website](https://stellarlink.co) · [Products](https://stellarlink.co/products) · [Features](https://stellarlink.co/features) · [Pricing](https://stellarlink.co/pricing) · [Contact Us](https://stellarlink.co/contact)
+[Official Website](https://stellarlink.co) · [Contact Us](https://stellarlink.co/contact)
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fstellarlink.co&style=flat-square)](https://stellarlink.co)
 [![License](https://img.shields.io/badge/license-Proprietary-blue?style=flat-square)](https://stellarlink.co/privacy)
-[![Made in Chongqing](https://img.shields.io/badge/Made%20in-Chongqing%20🇨🇳-red?style=flat-square)](https://stellarlink.co)
+[![Made in Chongqing](https://img.shields.io/badge/Made%20in-Chongqing-red?style=flat-square)](https://stellarlink.co)
 
 </div>
 
 ---
 
-## 🚀 About Us
+## About Us
 
-Chongqing StellarLink Technology Co., Ltd. specializes in **AI-driven enterprise digital transformation**, delivering results through four core capabilities: **WeChat Mini Programs**, **GEO Optimization**, **RPA+Agent Automation**, and **Full Delivery Engineering (FDE)**.
+Chongqing Xingwei Zhilian Technology (StellarLink) is a technology-driven AI company. We help companies acquire customers, operate private-domain channels, manage sales pipelines, and land real AI Agent applications in production workflows.
 
-Serving **1,000+ enterprise clients**, we help businesses boost efficiency by **10x** and reduce operational costs by an average of **47%** — across retail, F&B, education, manufacturing, and professional services.
+Current focus: **three products and one service**.
 
 ---
 
-## 💡 Four Core Capabilities
+## Products and Service
 
 <table>
 <tr>
 <td width="50%">
 
-### 📱 WeChat Mini Programs
+### WeChat Mini Programs
 
-**72-hour delivery**, starting at ¥3,980.
+**72-hour fast delivery for business launch.**
 
-AI-assisted code generation + standardized component library for ultra-fast launch. Covers ordering, e-commerce, appointments, membership, and more — with full customer acquisition → transaction → fulfillment → retention loop.
+We build WeChat Mini Programs for ordering, e-commerce, appointments, memberships, and service workflows. The delivery covers the full loop from customer acquisition to transaction, fulfillment, and retention.
 
-[Learn more →](https://stellarlink.co/products/miniprogram)
+[Learn more](https://stellarlink.co/products/miniprogram)
 
 </td>
 <td width="50%">
 
-### 🔍 GEO Optimization
+### Sales Champion AI · 销冠AI
 
-**Get cited by AI search engines.**
+**AI growth and sales operation system.**
 
-Industry-first GEO (Generative Engine Optimization) SaaS — automated content generation → 13+ platform distribution → real-time AI citation monitoring → smart prompt management → content strategy engine.
-
-[Learn more →](https://stellarlink.co/products/geo-optimize)
+Sales Champion AI combines GEO brand exposure, Douyin and Xiaohongshu automated lead acquisition, WeChat private-domain operation, and CRM follow-up. It turns public-platform traffic into traceable leads, conversations, and sales pipeline.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🤖 RPA + Agent
+### SWEAgent
 
-**End-to-end intelligent process automation.**
+**GitHub-first coding-agent control system.**
 
-Deep fusion of RPA (Robotic Process Automation) with AI Agents. Unlike traditional RPA, our agents understand context, handle exceptions, and make decisions — covering data collection, cross-system sync, smart customer service, content distribution, financial reconciliation, and approval workflows.
+SWEAgent receives signed GitHub issue and pull-request events, records runs in SQLite, selects analyzer or coding workflows, runs configured OMP agents in Docker, validates results, and publishes reviewable GitHub artifacts. It is built for teams that want AI coding work to stay auditable, permission-aware, and review-first.
+
+[View repository](https://github.com/cexll/swe-agent)
 
 </td>
 <td width="50%">
 
-### 🏗️ FDE — Full Delivery Engineering
+### AI Agent Application Implementation
 
-**From AI assessment to production, end-to-end.**
+**FDE-style service for landing AI Agent applications.**
 
-Full lifecycle AI implementation: Readiness Assessment → Scenario Identification → Architecture Design → MVP Validation (2–4 weeks) → Full Deployment → Continuous Operations. We deliver business outcomes, not just proof-of-concepts.
+We help clients move from AI opportunity assessment to workflow redesign, Agent architecture, MVP validation, production integration, handover, and ongoing operation. The goal is business adoption, not demo-only proof-of-concepts.
+
+[Contact us](https://stellarlink.co/contact)
 
 </td>
 </tr>
@@ -75,91 +77,28 @@ Full lifecycle AI implementation: Readiness Assessment → Scenario Identificati
 
 ---
 
-## 🧰 Extended Products
+## Company Facts
 
-| Product | Description |
-|---------|-------------|
-| [DeepResearch](https://stellarlink.co/products/research) | Competitive intelligence reports in 3 minutes |
-| [SWE-Agent](https://stellarlink.co/products/sweagent) | AI code review — reduce defect rates by 30%+ |
-| [Enterprise Knowledge Base](https://stellarlink.co/products/knowledge) | AI semantic search, 10x retrieval efficiency |
-| [vibeBuilder](https://stellarlink.co/products/vibe-builder) | AI-powered code generation from natural language |
-
-> Full capabilities and plans: [Features](https://stellarlink.co/features) · [Pricing](https://stellarlink.co/pricing)
+| Item | Current information |
+|------|---------------------|
+| Company | Chongqing Xingwei Zhilian Technology |
+| Positioning | Technology-Driven AI Company |
+| Served enterprises | 1,000+ |
+| Average cost reduction | 47% |
+| Average efficiency lift | 10x |
+| Mini-program delivery | 72 hours |
+| ICP License | 渝ICP备2025052875号 |
 
 ---
 
-## 🛠️ Tech Stack
+## Contact Us
 
 <div align="center">
 
-### Application
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-22-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### AI & Automation
-![Claude](https://img.shields.io/badge/Anthropic_Claude-4-5A67D8?style=for-the-badge)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-V3-4A90D9?style=for-the-badge)
-![Playwright](https://img.shields.io/badge/Playwright-RPA-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-### Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-HTTPS-1F88C0?style=for-the-badge)
-
-</div>
-
----
-
-## 📊 Key Metrics
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| 🏢 Enterprise Clients | 1,000+ |
-| 📝 Published Articles | 100+ |
-| ⚡ Avg. Efficiency Boost | 10x |
-| 💰 Avg. Cost Reduction | 47% |
-| ⏱️ Mini-Program Delivery | 72 hours |
-| 🤖 RPA+Agent Automation Rate | 80%+ |
-| 🏗️ FDE MVP Validation | 2–4 weeks |
-| ⭐ Client Satisfaction | 4.9/5.0 |
-
-</div>
-
----
-
-## 🌈 Open Source & Community
-
-We actively contribute to the open source community and share engineering best practices:
-
-- 📚 **Tech Blog**: 100+ articles covering AI Agents, RPA automation, GEO optimization, and mini-program engineering
-- 🤖 **AI Engineering**: Deep practice with Claude Code, Agent workflows, Hooks, and multi-model orchestration
-- 🔧 **Open Source**: [SWE-Agent](https://github.com/stellarlinkco/swe-agent), [Open-SWE](https://github.com/stellarlinkco/open-swe), and more on [GitHub](https://github.com/stellarlinkco)
-- 📖 **Translations**: Chinese translations of official Anthropic and OpenAI documentation
-
----
-
-## 📬 Contact Us
-
-<div align="center">
-
-📧 **Email**: [contact@stellarlink.co](mailto:contact@stellarlink.co)
-🌐 **Website**: [stellarlink.co](https://stellarlink.co)
-📍 **Address**: Building 9, Floor 22, No. 106 West Jinkai Avenue, Liangjiang New Area, Chongqing, China
-
----
-
-### Social Media
-
-[![微信公众号](https://img.shields.io/badge/WeChat-Follow-07C160?style=for-the-badge&logo=wechat&logoColor=white)](http://weixin.qq.com/r/mp/a0Xw6HrElyforT6L9xB5)
-[![小红书](https://img.shields.io/badge/Xiaohongshu-Follow-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://xhslink.com/m/3Yea6q4bd3m)
-
-### WeChat Channels
+Email: [support@stellarlink.co](mailto:support@stellarlink.co)  
+Phone: [+86-17764045684](tel:+8617764045684)  
+Website: [stellarlink.co](https://stellarlink.co)  
+Address: Floor 22, Room 2205-1, Building 9, No. 106 Jinkai Avenue West, Kangmei Street, Liangjiang New Area, Chongqing, China
 
 <table>
 <tr>
@@ -172,16 +111,16 @@ We actively contribute to the open source community and share engineering best p
 </td>
 <td align="center" width="50%">
 <a>
-  <img src="../images/qrcode2.png" alt="WeCom Group QR Code" width="220" />
+  <img src="../images/qrcode2.png" alt="Enterprise WeChat QR Code" width="220" />
 </a>
 <br/>
-<sub><a>WeCom Group</a></sub>
+<sub><a>Enterprise WeChat</a></sub>
 </td>
 </tr>
 </table>
 
 ---
 
-<sub>© 2025 Chongqing StellarLink Technology Co., Ltd. All rights reserved.</sub>
+<sub>© 2026 Chongqing Xingwei Zhilian Technology. All rights reserved.</sub>
 
 </div>
