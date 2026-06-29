@@ -39,11 +39,11 @@ Productized mini-program delivery for acquisition, storefronts, ordering, appoin
 </td>
 <td width="50%">
 
-### Sales Champion AI · 销冠AI
+### ACE AI · 销冠AI
 
 **AI growth and sales operation system.**
 
-Sales Champion AI combines GEO brand visibility, Douyin and Xiaohongshu automated lead acquisition, WeChat private-domain operation, and CRM follow-up. It turns public-platform traffic into traceable leads, conversations, opportunities, and sales pipeline.
+ACE AI combines GEO brand visibility, Douyin and Xiaohongshu automated lead acquisition, WeChat private-domain operation, and CRM follow-up. It turns public-platform traffic into traceable leads, conversations, opportunities, and sales pipeline.
 
 [Learn more](https://stellarlink.co/products/geo-optimize)
 
