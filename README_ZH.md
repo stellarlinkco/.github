@@ -18,9 +18,7 @@
 
 ## 关于我们
 
-重庆星纬智联科技有限公司（StellarLink）是一家 Technology-Driven AI Company。我们帮助企业完成客户获取、私域运营、销售管线管理，以及真实业务流程中的 AI Agent 应用落地。
-
-当前主线保留：**三款产品 + 一项服务**。
+重庆星纬智联科技有限公司（StellarLink）围绕客户获取、微信经营、CRM 跟进、云端编码 Agent 和生产级 AI Agent 应用落地，提供 AI 产品与交付服务。
 
 ---
 
@@ -30,11 +28,11 @@
 <tr>
 <td width="50%">
 
-### 微信小程序
+### AI 微信小程序
 
-**72 小时快速交付，帮助业务上线。**
+**AI 驱动微信经营。**
 
-面向点餐、商城、预约、会员、服务流程等场景建设微信小程序，覆盖获客、交易、履约、复购与会员运营闭环。
+面向获客、商城、点餐、预约、会员、支付与私域复购的小程序产品化交付。把微信流量、交易、客户标签和运营跟进串成一个可持续迭代的业务闭环。
 
 [了解更多](https://stellarlink.co/products/miniprogram)
 
@@ -45,7 +43,9 @@
 
 **AI 增长与销售运营系统。**
 
-销冠AI 覆盖 GEO 品牌曝光、抖音与小红书自动获客、微信私域运营、CRM 跟进管理，把公域内容流量转化为可追踪线索、会话与销售管线。
+销冠AI 覆盖 GEO 品牌曝光、抖音与小红书自动获客、微信私域运营、CRM 跟进管理，把公域内容流量转化为可追踪线索、会话、商机与销售管线。
+
+[了解更多](https://stellarlink.co/products/geo-optimize)
 
 </td>
 </tr>
@@ -54,22 +54,22 @@
 
 ### SWEAgent
 
-**GitHub-first 编码 Agent 控制系统。**
+**异步云端开发，交付前自动扫描安全风险。**
 
-SWEAgent 接收签名验证后的 GitHub issue / PR 事件，将运行记录写入 SQLite，根据触发规则选择分析或编码工作流，在 Docker 中运行配置好的 OMP Agent，执行验证，并交付可审查的 GitHub 产物。它适合希望把 AI 编码工作纳入权限、审计、验证和人工 review 边界的团队。
+从代码托管平台（当前支持 GitHub）自动触发编码、验证与安全扫描。Agent 异步运行、自动检测漏洞、记录验证证据并交付可审查 PR，在交付前暴露风险，保障代码质量。
 
-[查看仓库](https://github.com/cexll/swe-agent)
+[了解更多](https://stellarlink.co/products/sweagent)
 
 </td>
 <td width="50%">
 
 ### AI Agent 应用落地服务
 
-**类似 FDE 的 AI Agent 应用交付服务。**
+**从场景识别到生产集成的完整交付。**
 
-帮助客户从 AI 机会评估、流程重构、Agent 架构设计、MVP 验证、生产系统集成，到交付培训与持续运营，把 AI Agent 真正落到业务流程里，而不是停留在演示原型。
+帮助企业从 AI 机会评估、流程重构、Agent 架构设计、MVP 验证、生产系统集成，到交付培训与持续运营，把 AI Agent 真正落到业务流程里。
 
-[联系我们](https://stellarlink.co/contact)
+[了解更多](https://stellarlink.co/products/fde)
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ SWEAgent 接收签名验证后的 GitHub issue / PR 事件，将运行记录写�
 | 服务企业 | 1,000+ |
 | 平均成本降低 | 47% |
 | 平均效率提升 | 10x |
-| 小程序交付 | 72 小时 |
+| 小程序能力 | AI 驱动微信经营 |
 | ICP 备案 | 渝ICP备2025052875号 |
 
 ---

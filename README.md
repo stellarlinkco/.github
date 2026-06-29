@@ -18,9 +18,7 @@
 
 ## About Us
 
-Chongqing Xingwei Zhilian Technology (StellarLink) is a technology-driven AI company. We help companies acquire customers, operate private-domain channels, manage sales pipelines, and land real AI Agent applications in production workflows.
-
-Current focus: **three products and one service**.
+Chongqing Xingwei Zhilian Technology (StellarLink) builds AI products and implementation services for customer acquisition, WeChat operations, CRM workflows, cloud coding agents, and production AI Agent adoption.
 
 ---
 
@@ -30,11 +28,11 @@ Current focus: **three products and one service**.
 <tr>
 <td width="50%">
 
-### WeChat Mini Programs
+### AI WeChat Mini Programs
 
-**72-hour fast delivery for business launch.**
+**AI-powered WeChat business operations.**
 
-We build WeChat Mini Programs for ordering, e-commerce, appointments, memberships, and service workflows. The delivery covers the full loop from customer acquisition to transaction, fulfillment, and retention.
+Productized mini-program delivery for acquisition, storefronts, ordering, appointments, memberships, payments, and private-domain retention. Designed to connect WeChat traffic, transactions, customer tags, and follow-up operations in one loop.
 
 [Learn more](https://stellarlink.co/products/miniprogram)
 
@@ -45,7 +43,9 @@ We build WeChat Mini Programs for ordering, e-commerce, appointments, membership
 
 **AI growth and sales operation system.**
 
-Sales Champion AI combines GEO brand exposure, Douyin and Xiaohongshu automated lead acquisition, WeChat private-domain operation, and CRM follow-up. It turns public-platform traffic into traceable leads, conversations, and sales pipeline.
+Sales Champion AI combines GEO brand visibility, Douyin and Xiaohongshu automated lead acquisition, WeChat private-domain operation, and CRM follow-up. It turns public-platform traffic into traceable leads, conversations, opportunities, and sales pipeline.
+
+[Learn more](https://stellarlink.co/products/geo-optimize)
 
 </td>
 </tr>
@@ -54,22 +54,22 @@ Sales Champion AI combines GEO brand exposure, Douyin and Xiaohongshu automated 
 
 ### SWEAgent
 
-**GitHub-first coding-agent control system.**
+**Async cloud development with automatic security scanning before delivery.**
 
-SWEAgent receives signed GitHub issue and pull-request events, records runs in SQLite, selects analyzer or coding workflows, runs configured OMP agents in Docker, validates results, and publishes reviewable GitHub artifacts. It is built for teams that want AI coding work to stay auditable, permission-aware, and review-first.
+Automatically trigger coding, validation, and security scanning from code hosting platforms (currently GitHub). Agents run asynchronously, detect vulnerabilities, record validation evidence, and deliver reviewable PRs—exposing risks before delivery to ensure code quality.
 
-[View repository](https://github.com/cexll/swe-agent)
+[Learn More](https://stellarlink.co/products/sweagent)
 
 </td>
 <td width="50%">
 
-### AI Agent Application Implementation
+### AI Agent Implementation Services
 
-**FDE-style service for landing AI Agent applications.**
+**Complete delivery from scenario identification to production integration.**
 
-We help clients move from AI opportunity assessment to workflow redesign, Agent architecture, MVP validation, production integration, handover, and ongoing operation. The goal is business adoption, not demo-only proof-of-concepts.
+We help enterprises move from AI opportunity assessment, process redesign, Agent architecture design, MVP validation, production system integration, to delivery training and ongoing operations—bringing AI Agents into real business workflows.
 
-[Contact us](https://stellarlink.co/contact)
+[Learn More](https://stellarlink.co/products/fde)
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ We help clients move from AI opportunity assessment to workflow redesign, Agent 
 | Served enterprises | 1,000+ |
 | Average cost reduction | 47% |
 | Average efficiency lift | 10x |
-| Mini-program delivery | 72 hours |
+| Mini-program delivery | AI-powered WeChat operations |
 | ICP License | 渝ICP备2025052875号 |
 
 ---
