@@ -4,7 +4,7 @@
 
 **AI products and AI Agent implementation for enterprise growth**
 
-[English](README.md) · [简体中文](README_ZH.md)
+[English](https://github.com/stellarlinkco/.github/blob/main/profile/README.md) · [简体中文](https://github.com/stellarlinkco/.github/blob/main/README_ZH.md)
 
 [Official Website](https://stellarlink.co) · [Contact Us](https://stellarlink.co/contact)
 
