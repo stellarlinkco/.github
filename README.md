@@ -1,6 +1,6 @@
 <div align="center">
 
-# StellarLink · 星纬智联
+# StellarLink
 
 **AI products and AI Agent implementation for enterprise growth**
 
@@ -39,7 +39,7 @@ Productized mini-program delivery for acquisition, storefronts, ordering, appoin
 </td>
 <td width="50%">
 
-### AI Digital Employee · AI 数字员工
+### AI Digital Employee
 
 **Digital employees + skills that do the work.**
 

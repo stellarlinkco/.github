@@ -4,7 +4,7 @@
 
 **AI 产品与 AI Agent 应用落地服务**
 
-[English](README.md) · [简体中文](README_ZH.md)
+[English](https://github.com/stellarlinkco/.github/blob/main/profile/README.md) · [简体中文](https://github.com/stellarlinkco/.github/blob/main/profile/README_ZH.md)
 
 [官网](https://stellarlink.co) · [联系我们](https://stellarlink.co/contact)
 
@@ -104,14 +104,14 @@ AI 数字员工覆盖抖音与小红书获客、微信私域运营、CRM 跟进�
 <tr>
 <td align="center" width="50%">
 <a>
-  <img src="images/qrcode.png" alt="微信公众号二维码" width="220" />
+  <img src="../images/qrcode.png" alt="微信公众号二维码" width="220" />
 </a>
 <br/>
 <sub><a>微信公众号</a></sub>
 </td>
 <td align="center" width="50%">
 <a>
-  <img src="images/qrcode2.png" alt="企业微信二维码" width="220" />
+  <img src="../images/qrcode2.png" alt="企业微信二维码" width="220" />
 </a>
 <br/>
 <sub><a>企业微信</a></sub>

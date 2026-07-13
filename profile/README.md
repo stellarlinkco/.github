@@ -1,10 +1,10 @@
 <div align="center">
 
-# StellarLink · 星纬智联
+# StellarLink
 
 **AI products and AI Agent implementation for enterprise growth**
 
-[English](https://github.com/stellarlinkco/.github/blob/main/profile/README.md) · [简体中文](https://github.com/stellarlinkco/.github/blob/main/README_ZH.md)
+[English](https://github.com/stellarlinkco/.github/blob/main/profile/README.md) · [简体中文](https://github.com/stellarlinkco/.github/blob/main/profile/README_ZH.md)
 
 [Official Website](https://stellarlink.co) · [Contact Us](https://stellarlink.co/contact)
 
@@ -39,7 +39,7 @@ Productized mini-program delivery for acquisition, storefronts, ordering, appoin
 </td>
 <td width="50%">
 
-### AI Digital Employee · AI 数字员工
+### AI Digital Employee
 
 **Digital employees + skills that do the work.**
 
