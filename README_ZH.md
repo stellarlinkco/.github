@@ -39,13 +39,13 @@
 </td>
 <td width="50%">
 
-### 销冠AI
+### AI 数字员工
 
-**AI 增长与销售运营系统。**
+**数字员工 + 技能，帮你干活。**
 
-销冠AI 覆盖 GEO 品牌曝光、抖音与小红书自动获客、微信私域运营、CRM 跟进管理，把公域内容流量转化为可追踪线索、会话、商机与销售管线。
+AI 数字员工覆盖抖音与小红书获客、微信私域运营、CRM 跟进管理。装上技能即可上岗，把公域线索转化为可追踪会话、商机与成交动作。
 
-[了解更多](https://stellarlink.co/products/geo-optimize)
+[了解更多](https://stellarlink.co/products/digital-employee)
 
 </td>
 </tr>

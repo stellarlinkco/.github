@@ -39,13 +39,13 @@ Productized mini-program delivery for acquisition, storefronts, ordering, appoin
 </td>
 <td width="50%">
 
-### ACE AI · 销冠AI
+### AI Digital Employee · AI 数字员工
 
-**AI growth and sales operation system.**
+**Digital employees + skills that do the work.**
 
-ACE AI combines GEO brand visibility, Douyin and Xiaohongshu automated lead acquisition, WeChat private-domain operation, and CRM follow-up. It turns public-platform traffic into traceable leads, conversations, opportunities, and sales pipeline.
+AI Digital Employee equips acquisition and follow-up skills for Douyin, Xiaohongshu, WeChat private-domain operations, and CRM. It turns public-platform leads into traceable conversations, opportunities, and closed-loop sales actions.
 
-[Learn more](https://stellarlink.co/products/geo-optimize)
+[Learn more](https://stellarlink.co/products/digital-employee)
 
 </td>
 </tr>
